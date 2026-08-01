@@ -1,15 +1,3 @@
----
-title: TrendLens
-emoji: ⚡
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.44.1
-app_file: dashboard.py
-pinned: false
-license: mit
----
-
 # ⚡ TrendLens - Growth Intelligence & AI Strategy Engine
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python) ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=flat) ![NLP](https://img.shields.io/badge/NLP-Sentiment-yellow?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat&logo=streamlit) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
