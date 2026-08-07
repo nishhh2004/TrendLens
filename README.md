@@ -1,5 +1,6 @@
 # ⚡ TrendLens - Growth Intelligence & AI Strategy Engine
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Access_App-00d4ff?style=for-the-badge&logo=streamlit&logoColor=white)](https://trendlens-vdwt.onrender.com/)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python) ![Data Science](https://img.shields.io/badge/Data-Science-orange?style=flat) ![NLP](https://img.shields.io/badge/NLP-Sentiment-yellow?style=flat) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
 ---
